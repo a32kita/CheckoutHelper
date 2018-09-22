@@ -1,0 +1,6 @@
+# Install Files
+/Install Files/*
+!/Install Files/README.md
+
+# Inno Setup
+
